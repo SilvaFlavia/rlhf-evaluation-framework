@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26193483/README.md)
 # RLHF Evaluation Framework 📊
 
 **A professional rubric system for evaluating Large Language Model outputs**  
@@ -9,7 +8,7 @@
 [![Domain](https://img.shields.io/badge/domain-AI%20Alignment-orange.svg)]()
 
 > *"Good data doesn't happen by accident. It requires judgment, consistency, and a framework that scales."*  
-> — Flávia Marinelli Da Silva, Senior AI Trainer & RLHF Specialist
+> — Flávia Silva, Senior AI Trainer & RLHF Specialist
 
 ---
 
@@ -17,7 +16,7 @@
 
 This repository contains a **battle-tested evaluation framework** for assessing LLM outputs in RLHF (Reinforcement Learning from Human Feedback) workflows.
 
-It was built from direct experience evaluating thousands of model outputs at **Invisible Technologies**, **One Forma**, **Appen**, and **Lionbridge** — across NLP, instruction tuning, and LLM alignment projects.
+It was built from direct experience evaluating thousands of model outputs at LLM projects — across NLP, instruction tuning, and LLM alignment projects.
 
 This is not a theoretical framework. Every rubric here has been applied to real production data.
 
@@ -121,7 +120,7 @@ Cultural and linguistic nuances are documented in each rubric's **Language Notes
 
 ## 👩‍💻 Author
 
-**Flávia Marinelli Da Silva**  
+**Flávia Silva**  
 Senior AI Data Trainer & RLHF Specialist  
 Rio de Janeiro, Brazil
 
